@@ -4,7 +4,7 @@ Vous avez toujours voulu apprendre à programmer ? Si oui, ce cours est fait pou
 Mais d'abord, *qu'est-ce que Python ?*
 
 
-Python est un language de programmation au niveau orienté objet. Plus un language est bas niveau, plus il est proche de la machine et moins il est facile à apprendre. Et pour l'orienté objet je reviendrai dessus plus tard dans le cours.
+Python est un language de programmation haut niveau orienté objet. Plus un language est bas niveau, plus il est proche de la machine et moins il est facile à apprendre. Et pour l'orienté objet je reviendrai dessus plus tard dans le cours.
 Donc Python possède une syntaxe très simple. C'est pour cela que je vais vous l'enseigner.
 
 ## Installer Python
